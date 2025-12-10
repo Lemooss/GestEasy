@@ -1,0 +1,37 @@
+.
+├── ESTRUTURA.txt
+├── INSTALACAO.md
+├── README.md
+├── backend
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+│       ├── config
+│       ├── controllers
+│       ├── middleware
+│       ├── models
+│       ├── routes
+│       ├── server.js
+│       └── utils
+├── database
+│   ├── 01_create_database.sql
+│   └── 02_seed_data.sql
+├── docs
+└── frontend
+    ├── categorias.html
+    ├── css
+    │   └── style.css
+    ├── dashboard.html
+    ├── index.html
+    ├── js
+    │   ├── categorias.js
+    │   ├── config.js
+    │   ├── dashboard.js
+    │   ├── orcamentos.js
+    │   └── transacoes.js
+    ├── login.html
+    ├── orcamentos.html
+    ├── registro.html
+    └── transacoes.html
+
+13 directories, 21 files
